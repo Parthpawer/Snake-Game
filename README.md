@@ -1,9 +1,4 @@
-<!DOCTYPE html>
-<html lang="en">
 
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Snake Game with Turtle Graphics</title>
     <style>
         body {
@@ -54,10 +49,9 @@
             overflow-x: auto;
         }
     </style>
-</head>
 
-<body>
-    <main>
+
+
         <h1>Snake Game with Turtle Graphics</h1>
         <p>This is a simple Snake Game built using Python and the Turtle graphics library. The game consists of a snake controlled by the arrow keys, with the goal of collecting red food items to grow longer. The snake must avoid colliding with the screen edges and itself.</p>
 
@@ -89,7 +83,4 @@
             <li>Game developed by [Your Name]</li>
             <li>Inspired by classic Snake Games</li>
         </ul>
-    </main>
-</body>
 
-</html>
