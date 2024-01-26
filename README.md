@@ -47,7 +47,7 @@ Experience the game in a colorful and dynamic environment, enhanced with vibrant
 
 ## 🎨 Credits
 
-- Game developed by [Your Name]
+- Game developed by [Parth Pawar]
 - Inspired by classic Snake Games
 
 ## 🤝 Contribution
@@ -56,6 +56,4 @@ Feel free to fork, modify, and enhance this Snake Game. Contributions are always
 
 Enjoy the game and happy coding! 🎉
 
---- 
 
-Replace `[Your Name]` with your actual name or GitHub username. Customize the README further if needed.
