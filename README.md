@@ -47,7 +47,7 @@ Experience the game in a colorful and dynamic environment, enhanced with vibrant
 
 ## 🎨 Credits
 
-- Game developed by [Parth Pawar]
+- Game developed by Parth Pawar
 - Inspired by classic Snake Games
 
 ## 🤝 Contribution
